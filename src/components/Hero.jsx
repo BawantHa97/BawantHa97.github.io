@@ -8,7 +8,7 @@ export default function Hero({ t }) {
         >
             <div className="flex justify-center mb-8 md:mb-0 md:mr-10">
                 <img
-                    src="/images/your-profile-pic.jpg" /* Make sure the path matches your public folder */
+                    src="/public/images/profile.jpg" /* Make sure the path matches your public folder */
                     alt="Bawantha Harshana - Software Engineer"
                     className="w-48 h-48 md:w-64 md:h-64 rounded-full object-cover border-4 border-[#0E1424] shadow-[0_0_15px_rgba(34,211,238,0.5)] ring-2 ring-cyan-400"
                 />
